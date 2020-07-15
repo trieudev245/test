@@ -1,0 +1,1 @@
+Functional Interfaces là interface nhưng chỉ có một 1 abstract function duy nhất.
